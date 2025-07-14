@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou Henrique Sciani 👋
 
-<!--
-**HenriqueScian1/HenriqueScian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Atualmente tenho 20 anos e venho fazendo faculdade de análise e desenovlvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Como entrar em contato
+
+✉️ Sinta-se à vontade para entrar em contato comigo através dos seguintes canais:
+
+- **Email**: [henriquesciani@gmail.com]
+- **LinkedIn**: (https://www.linkedin.com/in/henrique-sciani-200350281/)
+
+---
+
+<p align="center">
+  Feito com ❤️ por Henrique Sciani
+</p>
+
