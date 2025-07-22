@@ -15,9 +15,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 - **Outras Ferramentas:** Docker, VS Code
 
 ## Estatísticas do GitHub
-
-// ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueScian1&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueScian1&layout=compact&theme=radical)
 
 ## Como entrar em contato
