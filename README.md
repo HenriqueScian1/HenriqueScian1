@@ -14,9 +14,6 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho experiênci
 - **Controle de Versão:** Git, GitHub
 - **Outras Ferramentas:** Docker, VS Code
 
-## Estatísticas do GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueScian1&layout=compact&theme=radical)
-
 ## Como entrar em contato
 
 ✉️ Sinta-se à vontade para entrar em contato comigo através dos seguintes canais:
