@@ -34,12 +34,6 @@ Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e enc
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueScian1&show_icons=true&theme=radical" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueScian1&layout=compact&theme=radical" alt="Top Languages"/> </div>
-
----
-
 ## 📫 Como me encontrar
 
 * ✉️ **Email:** [henriquesciani@gmail.com](mailto:henriquesciani@gmail.com)
