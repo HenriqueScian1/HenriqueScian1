@@ -25,15 +25,6 @@ Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e enc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
-## 🌟 Projetos em Destaque  
-
-🔹 [**FoodieDB**](https://github.com/HenriqueScian1/FoodieDB) – Plataforma de pedidos de comida desenvolvida em **ASP.NET**, **C#** e **SQL**. Um sistema completo com backend robusto e integração com banco de dados.  
-
-🔹 [**HealthTrack**](https://github.com/HenriqueScian1/HealthTrack) – Aplicação desenvolvida em **React**, focada no acompanhamento de saúde e hábitos, explorando conceitos de componentes, hooks e manipulação de estados.  
-
-🔹 [**projeto-6-koru**](https://github.com/HenriqueScian1/projeto-6-koru) – Projeto que consome uma **API** externa, reforçando conhecimentos em integração de serviços e uso de **JavaScript**.
-
----
 
 ## 📫 Como me encontrar
 
