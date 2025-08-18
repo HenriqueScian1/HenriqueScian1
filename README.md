@@ -14,10 +14,12 @@ Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e enc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 
-**⚡ Frameworks & Bibliotecas:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node-dot-js\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+**⚡ Frameworks & Bibliotecas:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 **🗄️ Bancos de Dados:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -46,5 +48,3 @@ Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e enc
 </p>
 
 ---
-
-👉 Quer que eu já monte também exemplos prontos para a seção **Projetos em Destaque** (com descrições e links para repositórios), ou prefere deixar essa parte para você preencher?
