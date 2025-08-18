@@ -36,18 +36,7 @@ Apaixonado por tecnologia, busco constantemente evoluir minhas habilidades e enc
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSciani&show_icons=true&theme=radical" alt="Henrique Sciani GitHub Stats"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSciani&layout=compact&theme=radical" alt="Top Languages"/>  
-</div>  
-
----
-
-## 🌟 Projetos em Destaque
-
-🔹 [**Projeto 1**](#) – Breve descrição do que ele faz.
-🔹 [**Projeto 2**](#) – Breve descrição do que ele faz.
-🔹 [**Projeto 3**](#) – Breve descrição do que ele faz.
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueScian1&show_icons=true&theme=radical" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueScian1&layout=compact&theme=radical" alt="Top Languages"/> </div>
 
 ---
 
